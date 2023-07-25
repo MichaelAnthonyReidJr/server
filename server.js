@@ -321,14 +321,6 @@ app.get("/homework", async (req, res) => {
 });
 
 
-
-
-
-
-
-
-
-
 //15.Add homework Assignment...................................Tested by Thunder
 app.post("/homework", async (req, res) => {
   try {
